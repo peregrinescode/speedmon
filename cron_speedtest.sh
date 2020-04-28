@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-LOG_PATH="/home/ross/code/speedtest.log"
+LOG_PATH="/home/ross/git/speedmon/speedtest.log"
 
 if result=$(/usr/bin/speedtest --simple); then
   parsed_result=$(printf "${result}\"" | sed ':a;N;$!ba;s/\n/" /g' | sed 's/: /="/g')
