@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import seaborn as sns
-sns.set_style('darkgrid')
+#sns.set_style('darkgrid')
 import datetime
 
 def read_speedLog(log_in):
@@ -35,6 +35,7 @@ def read_speedLog(log_in):
         logf['Time'][i] = logf['Time'][i].replace('[', '')
         logf['Time'][i]= logf['Time'][i].replace(']', '')
         logf['Time'][i]= logf['Time'][i].replace(' BST', '')
+        logf['Time'][i]= logf['Time'][i].replace(' CEST', '')
         logf['Time'][i]= logf['Time'][i].replace(' GMT', '')
         logf['Time'][i]= datetime.datetime.strptime(logf['Time'][i], '%a %d %b %H:%M:%S %Y')
 
@@ -53,6 +54,7 @@ def read_speedLog(log_in):
         logf['Upload'][i] = logf['Upload'][i].replace(' Mbit/s', '')
         logf['Upload'][i] = logf['Upload'][i].replace(' Mbit/', '')  # catch lines of different length...
         logf['Upload'][i] = logf['Upload'][i].replace(' Mbit', '')  # catch lines of different length...
+        logf['Upload'][i] = logf['Upload'][i].replace(' Mbi', '')  # catch lines of different length...
         logf['Upload'][i] = float(logf['Upload'][i])
         
     # Remove the 'rest' column
@@ -66,9 +68,9 @@ def plot_hist(logP):
 
     fig, ax = plt.subplots(3, 1)
 
-    sns.distplot(logP['Ping'], kde=False, hist_kws={"range": [0,1000]}, ax=ax[0])
-    sns.distplot(logP['Download'], kde=False, hist_kws={"range": [0,20]}, ax=ax[1])
-    sns.distplot(logP['Upload'], kde=False, hist_kws={"range": [0,5]}, ax=ax[2])
+    sns.distplot(logP['Ping'], kde=False, hist_kws={"range": [0,200]}, ax=ax[0])
+    sns.distplot(logP['Download'], kde=False, hist_kws={"range": [0,150]}, ax=ax[1])
+    sns.distplot(logP['Upload'], kde=False, hist_kws={"range": [0,15]}, ax=ax[2])
 
     ax[0].set_ylabel(r'Frequency')
     ax[1].set_ylabel(r'Frequency')
@@ -77,6 +79,7 @@ def plot_hist(logP):
     ax[1].set_xlabel(r'Download ($Mbit/s$)')
     ax[2].set_xlabel(r'Upload ($Mbit/s$)')
 
+    sns.despine(fig)
     fig.set_size_inches(4, (4 / 1.618) * 3)
     fig.subplots_adjust(hspace=0.4)
     fig.savefig('speed_histogram.png', pad_inches=0.1, bbox_inches='tight', dpi=300)
@@ -119,16 +122,17 @@ def plot_time(logP):
     ax[0].set_xlabel(r'Hour of day')
     ax[1].set_xlabel(r'Hour of day')
     ax[2].set_xlabel(r'Hour of day')
-    ax[0].set_ylim(-10,400)
-    ax[1].set_ylim(-0.5,15)
-    ax[2].set_ylim(-0.1,3)
+    #ax[0].set_ylim(-10,400)
+    #ax[1].set_ylim(-0.5,15)
+    #ax[2].set_ylim(-0.1,3)
 
+    sns.despine(fig)
     fig.set_size_inches(4, (4 / 1.618) * 3)
     fig.subplots_adjust(hspace=0.4)
     fig.savefig('speed_v_time.png', pad_inches=0.1, bbox_inches='tight', dpi=300)
 
 if __name__ == "__main__":
     logf = read_speedLog('speedtest.log')
-    # plot_hist(logf)
+    plot_hist(logf)
     plot_time(logf)
 
