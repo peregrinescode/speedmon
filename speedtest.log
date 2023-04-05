@@ -1,96 +1,91 @@
-[Sat  1 Apr 10:03:37 CEST 2023] Ping="29.676 ms" Download="100.11 Mbit/s" Upload="10.65 Mbit/s"
-[Sat  1 Apr 10:15:25 CEST 2023] Ping="35.779 ms" Download="103.42 Mbit/s" Upload="11.41 Mbit/s"
-[Sat  1 Apr 10:45:24 CEST 2023] Ping="40.185 ms" Download="102.26 Mbit/s" Upload="11.38 Mbit/s"
-[Sat  1 Apr 11:00:05 CEST 2023] error
-[Sat  1 Apr 11:15:23 CEST 2023] Ping="28.564 ms" Download="104.06 Mbit/s" Upload="11.32 Mbit/s"
-[Sat  1 Apr 11:30:04 CEST 2023] error
-[Sat  1 Apr 11:45:27 CEST 2023] Ping="67.464 ms" Download="101.06 Mbit/s" Upload="11.21 Mbit/s"
-[Sat  1 Apr 12:00:06 CEST 2023] error
-[Sat  1 Apr 12:15:25 CEST 2023] Ping="28.557 ms" Download="102.86 Mbit/s" Upload="11.36 Mbit/s"
-[Sat  1 Apr 12:30:04 CEST 2023] error
-[Sat  1 Apr 12:45:25 CEST 2023] Ping="60.726 ms" Download="101.27 Mbit/s" Upload="11.35 Mbit/s"
-[Sat  1 Apr 13:00:04 CEST 2023] error
-[Sat  1 Apr 13:15:27 CEST 2023] Ping="30.818 ms" Download="102.30 Mbit/s" Upload="11.31 Mbit/s"
-[Sat  1 Apr 13:30:04 CEST 2023] error
-[Sat  1 Apr 13:45:27 CEST 2023] Ping="76.371 ms" Download="100.60 Mbit/s" Upload="11.34 Mbit/s"
-[Sat  1 Apr 14:00:05 CEST 2023] error
-[Sat  1 Apr 14:15:24 CEST 2023] Ping="28.221 ms" Download="103.08 Mbit/s" Upload="11.21 Mbit/s"
-[Sat  1 Apr 14:30:05 CEST 2023] error
-[Sat  1 Apr 14:45:27 CEST 2023] Ping="50.687 ms" Download="102.45 Mbit/s" Upload="11.38 Mbit/s"
-[Sat  1 Apr 15:00:04 CEST 2023] error
-[Sat  1 Apr 17:09:53 CEST 2023] Ping="37.857 ms" Download="100.93 Mbit/s" Upload="2.38 Mbit/s"
-[Sat  1 Apr 17:15:25 CEST 2023] Ping="54.588 ms" Download="104.56 Mbit/s" Upload="11.26 Mbit/s"
-[Sat  1 Apr 17:30:03 CEST 2023] error
-[Sat  1 Apr 17:45:27 CEST 2023] Ping="53.974 ms" Download="55.42 Mbit/s" Upload="9.43 Mbit/s"
-[Sat  1 Apr 18:00:03 CEST 2023] error
-[Sat  1 Apr 18:15:28 CEST 2023] Ping="51.791 ms" Download="44.60 Mbit/s" Upload="9.53 Mbit/s"
-[Sat  1 Apr 18:30:03 CEST 2023] error
-[Sat  1 Apr 18:45:25 CEST 2023] Ping="48.91 ms" Download="49.93 Mbit/s" Upload="10.20 Mbit/s"
-[Sat  1 Apr 19:00:03 CEST 2023] error
-[Sat  1 Apr 19:15:26 CEST 2023] Ping="58.947 ms" Download="70.42 Mbit/s" Upload="9.64 Mbit/s"
-[Sat  1 Apr 19:30:04 CEST 2023] error
-[Sat  1 Apr 19:45:25 CEST 2023] Ping="32.47 ms" Download="103.93 Mbit/s" Upload="11.00 Mbit/s"
-[Sat  1 Apr 20:00:05 CEST 2023] error
-[Sat  1 Apr 20:15:24 CEST 2023] Ping="36.628 ms" Download="103.44 Mbit/s" Upload="11.43 Mbit/s"
-[Sat  1 Apr 20:30:04 CEST 2023] error
-[Sat  1 Apr 20:45:26 CEST 2023] Ping="84.013 ms" Download="102.63 Mbit/s" Upload="11.39 Mbit/s"
-[Sat  1 Apr 21:00:05 CEST 2023] error
-[Sat  1 Apr 21:15:25 CEST 2023] Ping="24.184 ms" Download="103.06 Mbit/s" Upload="11.39 Mbit/s"
-[Sat  1 Apr 21:30:04 CEST 2023] error
-[Sat  1 Apr 21:45:24 CEST 2023] Ping="25.734 ms" Download="104.30 Mbit/s" Upload="11.35 Mbit/s"
-[Sun  2 Apr 15:15:26 CEST 2023] Ping="58.069 ms" Download="99.41 Mbit/s" Upload="9.32 Mbit/s"
-[Sun  2 Apr 15:30:03 CEST 2023] error
-[Sun  2 Apr 15:45:27 CEST 2023] Ping="25.956 ms" Download="92.74 Mbit/s" Upload="11.09 Mbit/s"
-[Sun  2 Apr 16:00:04 CEST 2023] error
-[Sun  2 Apr 16:45:25 CEST 2023] Ping="56.887 ms" Download="36.17 Mbit/s" Upload="11.15 Mbit/s"
-[Sun  2 Apr 17:00:05 CEST 2023] error
-[Sun  2 Apr 17:15:24 CEST 2023] Ping="49.35 ms" Download="98.31 Mbit/s" Upload="11.27 Mbit/s"
-[Sun  2 Apr 17:30:05 CEST 2023] error
-[Sun  2 Apr 17:45:27 CEST 2023] Ping="54.356 ms" Download="92.65 Mbit/s" Upload="10.11 Mbit/s"
-[Sun  2 Apr 18:00:04 CEST 2023] error
-[Sun  2 Apr 18:15:26 CEST 2023] Ping="57.7 ms" Download="99.48 Mbit/s" Upload="10.93 Mbit/s"
-[Sun  2 Apr 18:30:04 CEST 2023] error
-[Sun  2 Apr 18:45:34 CEST 2023] Ping="108.043 ms" Download="91.40 Mbit/s" Upload="6.32 Mbit/s"
-[Sun  2 Apr 19:00:05 CEST 2023] error
-[Sun  2 Apr 19:15:30 CEST 2023] Ping="183.882 ms" Download="99.13 Mbit/s" Upload="10.15 Mbit/s"
-[Sun  2 Apr 19:30:05 CEST 2023] error
-[Sun  2 Apr 19:45:28 CEST 2023] Ping="108.706 ms" Download="17.91 Mbit/s" Upload="8.31 Mbit/s"
-[Sun  2 Apr 20:00:05 CEST 2023] error
-[Sun  2 Apr 20:15:25 CEST 2023] Ping="83.158 ms" Download="18.64 Mbit/s" Upload="8.29 Mbit/s"
-[Sun  2 Apr 20:30:04 CEST 2023] error
-[Sun  2 Apr 20:45:27 CEST 2023] Ping="68.634 ms" Download="41.08 Mbit/s" Upload="8.76 Mbit/s"
-[Sun  2 Apr 21:00:06 CEST 2023] error
-[Mon  3 Apr 07:45:28 CEST 2023] Ping="33.939 ms" Download="102.68 Mbit/s" Upload="11.27 Mbit/s"
-[Mon  3 Apr 08:00:05 CEST 2023] error
-[Mon  3 Apr 08:15:25 CEST 2023] Ping="27.621 ms" Download="103.25 Mbit/s" Upload="11.09 Mbit/s"
-[Mon  3 Apr 08:30:05 CEST 2023] error
-[Mon  3 Apr 08:45:28 CEST 2023] Ping="27.756 ms" Download="94.12 Mbit/s" Upload="11.15 Mbit/s"
-[Mon  3 Apr 09:00:06 CEST 2023] error
-[Mon  3 Apr 09:15:26 CEST 2023] Ping="27.471 ms" Download="101.30 Mbit/s" Upload="11.22 Mbit/s"
-[Mon  3 Apr 09:30:05 CEST 2023] error
-[Mon  3 Apr 09:45:31 CEST 2023] Ping="112.031 ms" Download="91.52 Mbit/s" Upload="10.06 Mbit/s"
-[Mon  3 Apr 10:00:06 CEST 2023] error
-[Mon  3 Apr 10:15:25 CEST 2023] Ping="31.311 ms" Download="101.25 Mbit/s" Upload="11.08 Mbit/s"
-[Mon  3 Apr 10:30:05 CEST 2023] error
-[Mon  3 Apr 10:45:29 CEST 2023] Ping="184.898 ms" Download="99.51 Mbit/s" Upload="11.08 Mbit/s"
-[Mon  3 Apr 11:00:06 CEST 2023] error
-[Mon  3 Apr 11:15:27 CEST 2023] Ping="50.717 ms" Download="99.03 Mbit/s" Upload="11.16 Mbit/s"
-[Mon  3 Apr 11:30:03 CEST 2023] error
-[Mon  3 Apr 11:45:26 CEST 2023] Ping="46.345 ms" Download="100.68 Mbit/s" Upload="10.76 Mbit/s"
-[Mon  3 Apr 12:00:06 CEST 2023] error
-[Mon  3 Apr 12:15:24 CEST 2023] Ping="44.33 ms" Download="102.40 Mbit/s" Upload="10.88 Mbit/s"
-[Mon  3 Apr 12:30:05 CEST 2023] error
-[Mon  3 Apr 12:45:28 CEST 2023] Ping="75.659 ms" Download="101.95 Mbit/s" Upload="11.27 Mbit/s"
-[Mon  3 Apr 13:00:07 CEST 2023] error
-[Mon  3 Apr 13:15:31 CEST 2023] Ping="209.34 ms" Download="100.66 Mbit/s" Upload="10.68 Mbit/s"
-[Mon  3 Apr 16:00:07 CEST 2023] error
-[Mon  3 Apr 16:15:27 CEST 2023] Ping="56.919 ms" Download="100.61 Mbit/s" Upload="11.10 Mbit/s"
-[Mon  3 Apr 16:30:05 CEST 2023] error
-[Mon  3 Apr 16:45:25 CEST 2023] Ping="70.804 ms" Download="73.69 Mbit/s" Upload="10.92 Mbit/s"
-[Mon  3 Apr 17:00:06 CEST 2023] error
-[Mon  3 Apr 17:15:25 CEST 2023] Ping="35.735 ms" Download="100.54 Mbit/s" Upload="11.33 Mbit/s"
-[Mon  3 Apr 17:30:04 CEST 2023] error
-[Tue  4 Apr 12:45:30 CEST 2023] Ping="155.323 ms" Download="54.98 Mbit/s" Upload="9.30 Mbit/s"
-[Tue  4 Apr 13:00:05 CEST 2023] error
-[Tue  4 Apr 13:15:25 CEST 2023] Ping="42.877 ms" Download="100.01 Mbit/s" Upload="11.16 Mbit/s"
-[Tue  4 Apr 16:00:07 CEST 2023] error
+[Tue  4 Apr 16:41:56 CEST 2023] Ping="44.271 ms" Download="102.01 Mbit/s" Upload="10.75 Mbit/s"
+[Tue  4 Apr 16:45:27 CEST 2023] Ping="46.214 ms" Download="100.72 Mbit/s" Upload="10.69 Mbit/s"
+[Tue  4 Apr 17:00:06 CEST 2023] error
+[Tue  4 Apr 17:15:28 CEST 2023] Ping="43.947 ms" Download="98.78 Mbit/s" Upload="9.03 Mbit/s"
+[Tue  4 Apr 17:30:04 CEST 2023] error
+[Tue  4 Apr 17:45:30 CEST 2023] Ping="70.616 ms" Download="97.12 Mbit/s" Upload="10.91 Mbit/s"
+[Tue  4 Apr 18:00:14 CEST 2023] error
+[Tue  4 Apr 18:15:31 CEST 2023] Ping="117.515 ms" Download="95.59 Mbit/s" Upload="10.68 Mbit/s"
+[Tue  4 Apr 18:30:04 CEST 2023] error
+[Tue  4 Apr 18:45:27 CEST 2023] Ping="61.228 ms" Download="97.02 Mbit/s" Upload="9.98 Mbit/s"
+[Tue  4 Apr 19:00:06 CEST 2023] error
+[Tue  4 Apr 19:15:26 CEST 2023] Ping="58.872 ms" Download="96.55 Mbit/s" Upload="9.97 Mbit/s"
+[Tue  4 Apr 19:30:04 CEST 2023] error
+[Tue  4 Apr 19:45:28 CEST 2023] Ping="44.079 ms" Download="98.05 Mbit/s" Upload="10.59 Mbit/s"
+[Tue  4 Apr 20:00:11 CEST 2023] error
+[Tue  4 Apr 20:15:30 CEST 2023] Ping="33.292 ms" Download="101.10 Mbit/s" Upload="10.64 Mbit/s"
+[Tue  4 Apr 20:30:05 CEST 2023] error
+[Tue  4 Apr 20:45:32 CEST 2023] Ping="53.573 ms" Download="97.60 Mbit/s" Upload="10.38 Mbit/s"
+[Tue  4 Apr 21:00:12 CEST 2023] error
+[Tue  4 Apr 21:15:27 CEST 2023] Ping="45.597 ms" Download="101.26 Mbit/s" Upload="10.57 Mbit/s"
+[Tue  4 Apr 21:30:03 CEST 2023] error
+[Tue  4 Apr 21:45:27 CEST 2023] Ping="37.677 ms" Download="99.62 Mbit/s" Upload="10.77 Mbit/s"
+[Tue  4 Apr 22:00:13 CEST 2023] error
+[Tue  4 Apr 22:15:31 CEST 2023] Ping="77.98 ms" Download="99.93 Mbit/s" Upload="10.90 Mbit/s"
+[Tue  4 Apr 22:30:05 CEST 2023] error
+[Tue  4 Apr 22:45:25 CEST 2023] Ping="41.213 ms" Download="101.23 Mbit/s" Upload="10.93 Mbit/s"
+[Tue  4 Apr 23:00:12 CEST 2023] error
+[Tue  4 Apr 23:15:25 CEST 2023] Ping="44.711 ms" Download="102.77 Mbit/s" Upload="10.84 Mbit/s"
+[Tue  4 Apr 23:30:04 CEST 2023] error
+[Tue  4 Apr 23:45:28 CEST 2023] Ping="55.756 ms" Download="99.58 Mbit/s" Upload="10.89 Mbit/s"
+[Wed  5 Apr 00:00:12 CEST 2023] error
+[Wed  5 Apr 00:15:25 CEST 2023] Ping="27.873 ms" Download="102.06 Mbit/s" Upload="10.82 Mbit/s"
+[Wed  5 Apr 00:30:03 CEST 2023] error
+[Wed  5 Apr 00:45:25 CEST 2023] Ping="30.297 ms" Download="103.87 Mbit/s" Upload="10.73 Mbit/s"
+[Wed  5 Apr 01:00:06 CEST 2023] error
+[Wed  5 Apr 01:15:25 CEST 2023] Ping="29.757 ms" Download="103.94 Mbit/s" Upload="10.92 Mbit/s"
+[Wed  5 Apr 01:30:08 CEST 2023] error
+[Wed  5 Apr 01:45:25 CEST 2023] Ping="37.219 ms" Download="100.58 Mbit/s" Upload="10.87 Mbit/s"
+[Wed  5 Apr 02:00:07 CEST 2023] error
+[Wed  5 Apr 02:15:25 CEST 2023] Ping="31.527 ms" Download="103.43 Mbit/s" Upload="10.93 Mbit/s"
+[Wed  5 Apr 02:30:03 CEST 2023] error
+[Wed  5 Apr 02:45:26 CEST 2023] Ping="31.926 ms" Download="95.45 Mbit/s" Upload="10.93 Mbit/s"
+[Wed  5 Apr 03:00:08 CEST 2023] error
+[Wed  5 Apr 03:15:24 CEST 2023] Ping="28.215 ms" Download="103.35 Mbit/s" Upload="10.76 Mbit/s"
+[Wed  5 Apr 03:30:03 CEST 2023] error
+[Wed  5 Apr 03:45:25 CEST 2023] Ping="24.492 ms" Download="97.81 Mbit/s" Upload="10.85 Mbit/s"
+[Wed  5 Apr 04:00:07 CEST 2023] error
+[Wed  5 Apr 04:16:05 CEST 2023] Ping="526.562 ms" Download="99.39 Mbit/s" Upload="10.83 Mbit/s"
+[Wed  5 Apr 04:30:10 CEST 2023] error
+[Wed  5 Apr 04:45:27 CEST 2023] Ping="44.263 ms" Download="101.22 Mbit/s" Upload="10.94 Mbit/s"
+[Wed  5 Apr 05:00:11 CEST 2023] error
+[Wed  5 Apr 05:15:28 CEST 2023] Ping="57.3 ms" Download="103.72 Mbit/s" Upload="10.94 Mbit/s"
+[Wed  5 Apr 05:30:08 CEST 2023] error
+[Wed  5 Apr 05:45:33 CEST 2023] Ping="105.878 ms" Download="102.74 Mbit/s" Upload="10.82 Mbit/s"
+[Wed  5 Apr 06:00:08 CEST 2023] error
+[Wed  5 Apr 06:15:32 CEST 2023] Ping="96.319 ms" Download="100.75 Mbit/s" Upload="10.44 Mbit/s"
+[Wed  5 Apr 06:30:09 CEST 2023] error
+[Wed  5 Apr 06:45:27 CEST 2023] Ping="50.75 ms" Download="102.37 Mbit/s" Upload="10.60 Mbit/s"
+[Wed  5 Apr 07:00:12 CEST 2023] error
+[Wed  5 Apr 07:15:26 CEST 2023] Ping="41.995 ms" Download="101.52 Mbit/s" Upload="10.94 Mbit/s"
+[Wed  5 Apr 07:45:26 CEST 2023] Ping="36.373 ms" Download="103.77 Mbit/s" Upload="10.92 Mbit/s"
+[Wed  5 Apr 08:00:11 CEST 2023] error
+[Wed  5 Apr 08:15:26 CEST 2023] Ping="40.862 ms" Download="67.06 Mbit/s" Upload="10.82 Mbit/s"
+[Wed  5 Apr 08:30:05 CEST 2023] error
+[Wed  5 Apr 08:45:28 CEST 2023] Ping="71.633 ms" Download="100.25 Mbit/s" Upload="10.30 Mbit/s"
+[Wed  5 Apr 09:00:53 CEST 2023] Ping="439.076 ms" Download="75.48 Mbit/s" Upload="9.67 Mbit/s"
+[Wed  5 Apr 09:15:28 CEST 2023] Ping="56.516 ms" Download="104.14 Mbit/s" Upload="10.86 Mbit/s"
+[Wed  5 Apr 09:30:06 CEST 2023] error
+[Wed  5 Apr 09:45:31 CEST 2023] Ping="97.446 ms" Download="88.67 Mbit/s" Upload="9.84 Mbit/s"
+[Wed  5 Apr 10:00:12 CEST 2023] error
+[Wed  5 Apr 10:15:29 CEST 2023] Ping="69.775 ms" Download="99.92 Mbit/s" Upload="10.28 Mbit/s"
+[Wed  5 Apr 10:30:14 CEST 2023] error
+[Wed  5 Apr 10:45:27 CEST 2023] Ping="30.795 ms" Download="95.12 Mbit/s" Upload="10.68 Mbit/s"
+[Wed  5 Apr 11:00:11 CEST 2023] error
+[Wed  5 Apr 11:15:30 CEST 2023] Ping="78.596 ms" Download="103.42 Mbit/s" Upload="10.32 Mbit/s"
+[Wed  5 Apr 11:30:06 CEST 2023] error
+[Wed  5 Apr 12:00:14 CEST 2023] error
+[Wed  5 Apr 12:15:28 CEST 2023] Ping="75.238 ms" Download="100.86 Mbit/s" Upload="10.07 Mbit/s"
+[Wed  5 Apr 12:30:08 CEST 2023] error
+[Wed  5 Apr 12:45:31 CEST 2023] Ping="27.884 ms" Download="104.28 Mbit/s" Upload="10.52 Mbit/s"
+[Wed  5 Apr 13:00:08 CEST 2023] error
+[Wed  5 Apr 13:30:04 CEST 2023] error
+[Wed  5 Apr 13:45:27 CEST 2023] Ping="57.327 ms" Download="103.21 Mbit/s" Upload="10.93 Mbit/s"
+[Wed  5 Apr 14:00:10 CEST 2023] error
+[Wed  5 Apr 14:30:04 CEST 2023] error
+[Wed  5 Apr 14:45:31 CEST 2023] Ping="88.024 ms" Download="98.74 Mbit/s" Upload="10.87 Mbit/s"
+[Wed  5 Apr 15:00:09 CEST 2023] error
+[Wed  5 Apr 15:15:26 CEST 2023] Ping="43.159 ms" Download="102.32 Mbit/s" Upload="10.81 Mbit/s"
+[Wed  5 Apr 15:30:04 CEST 2023] error
+[Wed  5 Apr 15:45:27 CEST 2023] Ping="36.075 ms" Download="87.44 Mbit/s" Upload="10.85 Mbit/s"
+[Wed  5 Apr 16:00:06 CEST 2023] error
